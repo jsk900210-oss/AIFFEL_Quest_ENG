@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+work/
+*.ttf
+*.pt
+*.json
+*.png
+*.txt
+*.model
+*.vocab
